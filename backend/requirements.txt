@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+yfinance
+prophet
+pandas
+plotly
+pydantic
+hypothesis
+pytest
+pytest-cov
+httpx
